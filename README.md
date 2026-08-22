@@ -1,3 +1,2 @@
 # Ini adalah Repository untuk latihan membuat branch baru di GitHub.
-
-Belajar GitHub seru.
+GitHub rill seru.
